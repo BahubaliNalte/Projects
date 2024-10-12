@@ -1,1 +1,1 @@
-https://bahubalinalte.github.io/Projects/
+https://bahubalinalte.github.io/Projects/Tic-Tac-Toe
